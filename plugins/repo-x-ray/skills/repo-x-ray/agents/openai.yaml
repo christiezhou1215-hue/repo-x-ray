@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo X-Ray"
+  short_description: "Explain projects and code in plain language"
+  default_prompt: "Use $repo-x-ray to explain what this code does in plain language."
